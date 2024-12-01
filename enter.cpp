@@ -1,0 +1,4 @@
+void enter()
+{
+    cout << endl;
+}
